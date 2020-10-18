@@ -1,2 +1,2 @@
 variable = board
-board 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
